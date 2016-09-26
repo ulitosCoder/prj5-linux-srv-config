@@ -12,7 +12,7 @@ with security measures.
 ## Access to the server
 -----------------------
 
-   To login to the server you need the provided rsa key, to the IP address 52.35.27.137, paste the rsa key into
+   To login to the server you need the provided rsa key, to the IP address 52.40.15.64, paste the rsa key into
    a file named udacity_key.rsa
    use the following commands
    
