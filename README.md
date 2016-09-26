@@ -17,18 +17,18 @@ with security measures.
    use the following commands
    
    1. chmod 600 udacity_key.rsa
-   2. ssh grader@52.35.27.137 -p 2200 -i udacity_key.rsa
+   2. ssh grader@52.40.15.64 -p 2200 -i udacity_key.rsa
 
 ## Web application
 ------------------
 
-+ To use the web application use your favorite Web browser and open [this address](http://ec2-52-35-27-137.us-west-2.compute.amazonaws.com/)
++ To use the web application use your favorite Web browser and open [this address](http://ec2-52-40-15-64.us-west-2.compute.amazonaws.com/)
 
 + You must login with Google+ to create/delete/modify your own categories, click on the link in the upper side of the webpage. 
 
 
 + Once loged in:
-  + click [Add New](http://ec2-52-35-27-137.us-west-2.compute.amazonaws.com/catalog/new) to create new categories
+  + click [Add New](http://ec2-52-40-15-64.us-west-2.compute.amazonaws.com//catalog/new) to create new categories
   + click Edit or Delte to the categories created by you.
   + Click on a category name to see the content.
   + If you created the category click on Add new item, to add items to your category.
